@@ -145,7 +145,7 @@ a {
   .border-bottom:after {
     width: 50px;
     height: 2px;
-    background: #00CA4C;
+    background: dodgerblue;
     position: absolute;
     content: "";
     bottom: 0;
@@ -363,7 +363,7 @@ a {
       box-shadow: none;
       -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
       box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
-      border: 1px solid #00CA4C; }
+      border: 1px solid dodgerblue; }
   .probootstrap-form .form-group:last-child {
     margin-bottom: 0;
     padding-bottom: 0; }
@@ -408,10 +408,10 @@ a {
   .select2-dropdown:focus {
     -webkit-box-shadow: none;
     box-shadow: none;
-    border: 1px solid #00CA4C; }
+    border: 1px solid dodgerblue; }
 
 .select2-container--default .select2-results__option--highlighted[aria-selected] {
-  background: #00CA4C; }
+  background: dodgerblue; }
 
 .select2-container--default .select2-results__option[aria-selected=true] {
   background: #d9d9d9;
@@ -500,7 +500,7 @@ a {
       visibility: visible; }
     .owl-carousel .probootstrap-slide:hover span, .owl-carousel .probootstrap-slide:focus span {
       top: 40%;
-      color: #00CA4C; }
+      color: dodgerblue; }
 
 .owl-carousel .owl-nav {
   position: absolute;
@@ -531,7 +531,7 @@ a {
     border-radius: 50%;
     background: #e6e6e6; }
     .owl-carousel .owl-dots .owl-dot.active {
-      background: #00CA4C; }
+      background: dodgerblue; }
 
 .probootstrap-date-wrap {
   position: relative; }

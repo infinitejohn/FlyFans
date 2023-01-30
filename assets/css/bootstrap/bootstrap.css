@@ -155,12 +155,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #00CA4C;
+  color: dodgerblue;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #007e2f;
+    color: lightskyblue;
     text-decoration: none; }
 
 a:not([href]):not([tabindex]) {
@@ -1383,7 +1383,7 @@ pre {
   .form-control:focus {
     color: #495057;
     background-color: #fff;
-    border-color: #00CA4C;
+    border-color: dodgerblue;
     outline: none; }
   .form-control::-webkit-input-placeholder {
     color: #868e96;
@@ -1738,8 +1738,8 @@ fieldset[disabled] a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #00CA4C;
-  border-color: #00CA4C; }
+  background-color: dodgerblue;
+  border-color: dodgerblue; }
   .btn-primary:hover {
     color: #fff;
     background-color: #00a43e;
@@ -1748,8 +1748,8 @@ fieldset[disabled] a.btn {
     -webkit-box-shadow: 0 0 0 3px rgba(0, 202, 76, 0.5);
     box-shadow: 0 0 0 3px rgba(0, 202, 76, 0.5); }
   .btn-primary.disabled, .btn-primary:disabled {
-    background-color: #00CA4C;
-    border-color: #00CA4C; }
+    background-color: dodgerblue;
+    border-color: dodgerblue; }
   .btn-primary:active, .btn-primary.active,
   .show > .btn-primary.dropdown-toggle {
     background-color: #00a43e;
@@ -1778,8 +1778,8 @@ fieldset[disabled] a.btn {
 
 .btn-success {
   color: #fff;
-  background-color: #00CA4C;
-  border-color: #00CA4C; }
+  background-color: dodgerblue;
+  border-color: dodgerblue; }
   .btn-success:hover {
     color: #fff;
     background-color: #00a43e;
@@ -1788,8 +1788,8 @@ fieldset[disabled] a.btn {
     -webkit-box-shadow: 0 0 0 3px rgba(0, 202, 76, 0.5);
     box-shadow: 0 0 0 3px rgba(0, 202, 76, 0.5); }
   .btn-success.disabled, .btn-success:disabled {
-    background-color: #00CA4C;
-    border-color: #00CA4C; }
+    background-color: dodgerblue;
+    border-color: dodgerblue; }
   .btn-success:active, .btn-success.active,
   .show > .btn-success.dropdown-toggle {
     background-color: #00a43e;
@@ -1917,25 +1917,25 @@ fieldset[disabled] a.btn {
     border-color: #011061; }
 
 .btn-outline-primary {
-  color: #00CA4C;
+  color: dodgerblue;
   background-color: transparent;
   background-image: none;
-  border-color: #00CA4C; }
+  border-color: dodgerblue; }
   .btn-outline-primary:hover {
     color: #fff;
-    background-color: #00CA4C;
-    border-color: #00CA4C; }
+    background-color: dodgerblue;
+    border-color: dodgerblue; }
   .btn-outline-primary:focus, .btn-outline-primary.focus {
     -webkit-box-shadow: 0 0 0 3px rgba(0, 202, 76, 0.5);
     box-shadow: 0 0 0 3px rgba(0, 202, 76, 0.5); }
   .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-    color: #00CA4C;
+    color: dodgerblue;
     background-color: transparent; }
   .btn-outline-primary:active, .btn-outline-primary.active,
   .show > .btn-outline-primary.dropdown-toggle {
     color: #fff;
-    background-color: #00CA4C;
-    border-color: #00CA4C; }
+    background-color: dodgerblue;
+    border-color: dodgerblue; }
 
 .btn-outline-secondary {
   color: #868e96;
@@ -1959,25 +1959,25 @@ fieldset[disabled] a.btn {
     border-color: #868e96; }
 
 .btn-outline-success {
-  color: #00CA4C;
+  color: dodgerblue;
   background-color: transparent;
   background-image: none;
-  border-color: #00CA4C; }
+  border-color: dodgerblue; }
   .btn-outline-success:hover {
     color: #fff;
-    background-color: #00CA4C;
-    border-color: #00CA4C; }
+    background-color: dodgerblue;
+    border-color: dodgerblue; }
   .btn-outline-success:focus, .btn-outline-success.focus {
     -webkit-box-shadow: 0 0 0 3px rgba(0, 202, 76, 0.5);
     box-shadow: 0 0 0 3px rgba(0, 202, 76, 0.5); }
   .btn-outline-success.disabled, .btn-outline-success:disabled {
-    color: #00CA4C;
+    color: dodgerblue;
     background-color: transparent; }
   .btn-outline-success:active, .btn-outline-success.active,
   .show > .btn-outline-success.dropdown-toggle {
     color: #fff;
-    background-color: #00CA4C;
-    border-color: #00CA4C; }
+    background-color: dodgerblue;
+    border-color: dodgerblue; }
 
 .btn-outline-info {
   color: #89D9D0;
@@ -2107,7 +2107,7 @@ fieldset[disabled] a.btn {
 
 .btn-link {
   font-weight: 300;
-  color: #00CA4C;
+  color: dodgerblue;
   border-radius: 0; }
   .btn-link, .btn-link:active, .btn-link.active, .btn-link:disabled {
     background-color: transparent; }
@@ -2118,7 +2118,7 @@ fieldset[disabled] a.btn {
   .btn-link:hover {
     border-color: transparent; }
   .btn-link:focus, .btn-link:hover {
-    color: #007e2f;
+    color: lightskyblue;
     text-decoration: none;
     background-color: transparent; }
   .btn-link:disabled {
@@ -3379,7 +3379,7 @@ tbody.collapse.show {
 
 .badge-primary {
   color: #fff;
-  background-color: #00CA4C; }
+  background-color: dodgerblue; }
   .badge-primary[href]:focus, .badge-primary[href]:hover {
     color: #fff;
     text-decoration: none;
@@ -3395,7 +3395,7 @@ tbody.collapse.show {
 
 .badge-success {
   color: #fff;
-  background-color: #00CA4C; }
+  background-color: dodgerblue; }
   .badge-success[href]:focus, .badge-success[href]:hover {
     color: #fff;
     text-decoration: none;
@@ -4378,7 +4378,7 @@ button.close {
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #00CA4C !important; }
+  background-color: dodgerblue !important; }
 
 a.bg-primary:focus, a.bg-primary:hover {
   background-color: #009739 !important; }
@@ -4390,7 +4390,7 @@ a.bg-secondary:focus, a.bg-secondary:hover {
   background-color: #6c757d !important; }
 
 .bg-success {
-  background-color: #00CA4C !important; }
+  background-color: dodgerblue !important; }
 
 a.bg-success:focus, a.bg-success:hover {
   background-color: #009739 !important; }
@@ -4456,13 +4456,13 @@ a.bg-navy:focus, a.bg-navy:hover {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #00CA4C !important; }
+  border-color: dodgerblue !important; }
 
 .border-secondary {
   border-color: #868e96 !important; }
 
 .border-success {
-  border-color: #00CA4C !important; }
+  border-color: dodgerblue !important; }
 
 .border-info {
   border-color: #89D9D0 !important; }
@@ -6572,7 +6572,7 @@ a.bg-navy:focus, a.bg-navy:hover {
   color: #fff !important; }
 
 .text-primary {
-  color: #00CA4C !important; }
+  color: dodgerblue !important; }
 
 a.text-primary:focus, a.text-primary:hover {
   color: #009739 !important; }
@@ -6584,7 +6584,7 @@ a.text-secondary:focus, a.text-secondary:hover {
   color: #6c757d !important; }
 
 .text-success {
-  color: #00CA4C !important; }
+  color: dodgerblue !important; }
 
 a.text-success:focus, a.text-success:hover {
   color: #009739 !important; }

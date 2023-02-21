@@ -1,9 +1,4 @@
-THEME: Places - Free Bootstrap 4 Theme
-AUTHOR: ProBootstrap.com
-LICENSE: Under Creative Commons 3.0 (probootstrap.com/license)
-AUTHOR URI: https://probootstrap.com/
-Twitter: https://twitter.com/probootstrap
-Facebook: https://facebook.com/probootstrap
+ignition travels and tours
 
 
 CREDITS:
